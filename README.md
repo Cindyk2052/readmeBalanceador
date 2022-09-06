@@ -115,7 +115,7 @@ También contamos con un video que explica el manual de usuario
 [Minikube-url]: https://minikube.sigs.k8s.io/docs/start/
 [Docker.com]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://minikube.sigs.k8s.io/docs/start/
-[Wordpress.com]: https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=white
+[Wordpress.com]: https://img.shields.io/badge/WordPress-275A70?style=for-the-badge&logo=wordpress&logoColor=white
 [Wordpress-url]: https://wordpress.com/es/
 
 
