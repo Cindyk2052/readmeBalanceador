@@ -56,30 +56,32 @@ La verificación de los nodos creados se puede encontrar en el Dashboard de Kube
 Se puede visualizar que los contenedores donde almacenan WordPress (frontend) y Mysql (backend) han sido creadas
 
 <div align="center">
-    <img src="captures/dockerps.png" alt="wordpress" width="900" height="300">
+    <img src="captures/dockerps.png" alt="wordpress" width="900" height="150">
 </div>
 
 Sigue la subida de las imágenes a Docker Hub que se lo realiza desde Docker Desktop haciendo un Push to Hub.
 
 <div align="center">
-    <img src="captures/dockerhub1.png" alt="wordpress" width="700" height="410">
+    <img src="captures/dockerhub1.png" alt="wordpress" width="700" height="250">
 </div>
 
 <div align="center">
-    <img src="captures/dockerhub2.png" alt="wordpress" width="700" height="410">
+    <img src="captures/dockerhub2.png" alt="wordpress" width="580" height="200">
 </div>
 
 Con el siguiente comando se puede observar todos los servicios levantados
 
 <div align="center">
-    <img src="captures/kubectlall.png" alt="wordpress" width="700" height="410">
+    <img src="captures/kubectlall.png" alt="wordpress" width="580" height="200">
 </div>
 
 Y con este comando se puede ver los Pods o Nodos que estan corriendo y la simulación de la baja de un nodo
 
 <div align="center">
-    <img src="captures/kubepods.png" alt="wordpress" width="700" height="410">
+    <img src="captures/kubepods.png" alt="wordpress" width="580" height="200">
 </div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Herramientas 
 
@@ -93,7 +95,7 @@ Y con este comando se puede ver los Pods o Nodos que estan corriendo y la simula
 En esta sección se presenta el costeo de precios de acuerdo a las herramientas usadas
 
 <div align="center">
-    <img src="captures/cotizacion.png" alt="wordpress" width="700" height="410">
+    <img src="captures/cotizacion.png" alt="wordpress" width="580" height="150">
 </div>
 
 ## Anexos
@@ -105,6 +107,8 @@ Encuentra en el siguiente link el video de la explicación técnica de la arquit
 También contamos con un video que explica el manual de usuario
 
 * [Video](https://youtu.be/zkeQBD7-SFc) 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
